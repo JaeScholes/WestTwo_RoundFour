@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="apidocs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../Apache/commons-io-2.8.0/commons-io-2.8.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../../Apache/commons-fileupload-1.4-bin.zip!/commons-fileupload-1.4-bin/apidocs" />
+      <root url="jar://$PROJECT_DIR$/../../../../Apache/commons-fileupload-1.4-bin.zip!/commons-fileupload-1.4-bin/site/apidocs" />
+      <root url="jar://$PROJECT_DIR$/../../../../Apache/commons-io-2.8.0-bin.zip!/commons-io-2.8.0/docs" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

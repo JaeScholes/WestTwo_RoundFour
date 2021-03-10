@@ -1,0 +1,106 @@
+﻿*{
+            margin:0;
+            padding:0;
+        }
+        body {
+            font: 20px/150% STXihei;
+            color: white;
+
+        }
+        #first{
+            height:20px;
+            width:20px;
+            position:absolute;
+            top:150px;
+            right:25px;
+        }
+ #container {
+            position: absolute;
+            top: 35px;
+            left: 45%;
+            margin-left: -250px;
+            height: 260px;
+            width: auto;
+            border-radius: 20px;
+            background-color: rgb(97, 161, 188);
+            box-shadow: 0 0 10px rgba(0,0,0,0.2);
+        }
+
+            #container h2 {
+                margin: 40px auto 20px;
+                font-size: 300%;
+                text-align: center;
+                font-family: STLiti;
+                color: white;
+            }
+        #name {
+            height: 30px;
+            width: 400px;
+            margin: auto 10px;
+            margin-left: 30px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            outline: none;
+            padding: 3px;
+            font-size: 15px;
+            float: left;
+            color: #888;
+        }
+        #secret {
+            height: 30px;
+            width: 400px;
+            margin: auto 10px;
+            margin-left: 30px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            outline: none;
+            padding: 3px;
+            font-size: 15px;
+            float: left;
+            color: #888;
+        }
+
+ .button {
+            background-color: #008cba;
+            border: none;
+            color: white;
+            padding: 6px 14px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 20px;
+            font-family: STXihei;
+            border-radius: 12px;
+            position:absolute;
+            left: 200px;
+            margin: 1px 1px;
+            -webkit-transition-duration: 0.4s;
+            transition-duration: 0.4s;
+            cursor: pointer;
+        }
+        .blue {
+            background-color: white;
+            color: black;
+            border: 2px solid #008cba;
+        }
+            .blue:hover {
+                background-color: rgb(227, 88, 133);
+                color: white;
+            }
+    .skip{
+        font-size:18px;
+    }
+
+.skip .left{
+   position:absolute;
+    left:280px;
+    top:198px;
+}
+.skip .left a{
+    color:white;
+}
+.skip .left a:hover{
+    color:rgb(227, 88, 133);
+}

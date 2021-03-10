@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="apidocs1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../Mysql/commons-dbutils-1.7-bin/commons-dbutils-1.7/commons-dbutils-1.7-tests.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../读书▲/西二/第三轮/httpcomponents-client-5.0.3-bin/httpcomponents-client-5.0.3/lib" />
+      <root url="file://$PROJECT_DIR$/../../../../读书▲/西二/第三轮/httpcomponents-core-5.0.3-bin/lib" />
+      <root url="jar://$PROJECT_DIR$/../../../../读书▲/西二/第三轮/fastjson-1.2.53.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../读书▲/西二/第三轮/slf4j-simple-1.7.30.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Mysql/mysql-connector-java-5.1.49.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../../Mysql/commons-dbutils-1.7-bin/commons-dbutils-1.7/commons-dbutils-1.7-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../Mysql/commons-dbutils-1.7-bin/commons-dbutils-1.7/commons-dbutils-1.7-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Mysql/commons-dbutils-1.7-bin/commons-dbutils-1.7/commons-dbutils-1.7-test-sources.jar!/" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../../../../读书▲/西二/第三轮/httpcomponents-client-5.0.3-bin/httpcomponents-client-5.0.3/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../../读书▲/西二/第三轮/httpcomponents-core-5.0.3-bin/lib" recursive="false" />
+  </library>
+</component>
